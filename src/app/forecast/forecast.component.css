@@ -1,0 +1,45 @@
+@import '~weather-icons-npm/css/weather-icons.min.css';
+
+.forecast {
+  font-weight: 200%;
+  color: rgb(24, 94, 24);
+  background-color: rgb(243, 245, 235);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 5px 10px #972d2d;
+  }
+
+   
+    .forcast-data {
+      font-weight: 20px;
+      width: 60%;
+    }
+   
+    .row {
+      margin-bottom: 10px;}
+   
+      .col-6 {
+        font-size: 20px;
+        color: #290f92;
+        text-decoration-color: aquamarine;
+      }
+   
+     .li{
+      text-decoration-style: none;
+     }
+    .forecast-logo {
+   
+      height: 100%;
+      width: 40%;
+      opacity: .4;}
+   
+      .wi {
+        display: block;
+        text-align: center;
+        font-size: 120px;
+      }
+    
+   

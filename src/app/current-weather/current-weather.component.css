@@ -1,0 +1,13 @@
+@import '~weather-icons-npm/css/weather-icons.min.css';
+.forecast-logo {
+   
+    height: 100%;
+    width: 40%;
+    opacity: .4;}
+ 
+    .wi {
+      display: block;
+      text-align: center;
+      font-size: 120px;
+    }
+  

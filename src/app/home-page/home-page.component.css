@@ -1,0 +1,14 @@
+.search{
+    color: rgb(15, 58);
+    text-align: center;
+    background-color: aquamarine;
+
+
+}
+mat-tab{
+    font-size:15px;
+}
+.label{
+    font-size:15px;
+    color: blue;
+}
